@@ -1,2 +1,2 @@
 console.log('commit 3');
-console.log('conflict 1');
+console.log('feature 1');
